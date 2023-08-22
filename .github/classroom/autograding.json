@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "",
+      "run": "javac big2.java && java big2",
+      "input": "12     4",
+      "output": "Biggest number is 12",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
