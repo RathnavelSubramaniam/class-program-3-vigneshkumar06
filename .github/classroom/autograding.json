@@ -4,7 +4,7 @@
       "name": "Test 1",
       "setup": "",
       "run": "javac big2.java && java big2",
-      "input": "12     4",
+      "input": "12    \r\n4",
       "output": "Biggest number is 12",
       "comparison": "exact",
       "timeout": 10,
