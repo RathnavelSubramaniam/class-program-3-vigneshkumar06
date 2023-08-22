@@ -6,7 +6,7 @@
       "run": "javac big2.java && java big2",
       "input": "12     4",
       "output": "Biggest number is 12",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 10,
       "points": 10
     }
